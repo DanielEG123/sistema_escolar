@@ -1,0 +1,7 @@
+echo "# sistema_escolar" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer commit" 
+git branch -M main 
+git remote add origin https://github.com/DanielEG123/sistema_escolar.git
+ git push -u origin main
